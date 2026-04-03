@@ -1,6 +1,6 @@
 # 👨‍💻 Sidney Aragão
 
-🚀 Full Stack Developer Jr. | Backend Focus | Future AI & Data Science Specialist  
+🚀 Full Stack Developer Jr. | Backend Focus 
 
 🎓 Estudante de **Sistemas de Informação (IFSP)**  
 🎓 Finalizando o curso técnico em **Desenvolvimento de Sistemas (SENAI)**  
@@ -10,11 +10,6 @@ Tenho experiência prática no desenvolvimento de:
 - Aplicações Web
 - Integração entre sistemas
 - Modelagem e manipulação de banco de dados
-
-💡 Atualmente evoluindo para atuar com:
-- Inteligência Artificial
-- Data Science
-- Arquitetura de Sistemas
 
 ---
 
@@ -77,11 +72,6 @@ Tenho experiência prática no desenvolvimento de:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney010&theme=tokyonight&hide_border=true&layout=compact)
 
----
-
-## Contributions
-
-![Snake](https://raw.githubusercontent.com/Sidney010/Sidney010/output/github-contribution-grid-snake.svg)
 
 ---
 
