@@ -26,10 +26,17 @@ Tenho experiência prática no desenvolvimento de:
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+### 📱 Mobile
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🔌 IoT / Sistemas
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +53,7 @@ Tenho experiência prática no desenvolvimento de:
 ## 📌 Projetos em Destaque
 
 🔹 **API REST com Node.js + Prisma**
-- Autenticação (JWT)
+- Autenticação
 - CRUD completo
 - Banco relacional (MySQL)
 
@@ -64,17 +71,17 @@ Tenho experiência prática no desenvolvimento de:
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sidney010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Sidney010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Sidney010&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=Sidney010&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney010&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
-## 🐍 Contributions
+## Contributions
 
-![Pacman](https://raw.githubusercontent.com/Sidney010/Sidney010/output/pacman-contribution-graph.svg)
+![Snake animation](https://raw.githubusercontent.com/Sidney010/Sidney010/output/github-contribution-grid-snake.svg)
 
 ---
 
