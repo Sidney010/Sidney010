@@ -81,7 +81,7 @@ Tenho experiência prática no desenvolvimento de:
 
 ## Contributions
 
-![Snake animation](https://raw.githubusercontent.com/Sidney010/Sidney010/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Sidney010/Sidney010/output/github-contribution-grid-snake.svg)
 
 ---
 
