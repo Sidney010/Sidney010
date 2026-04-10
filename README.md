@@ -84,7 +84,6 @@
 ## 🐍 Contributions Snake
 
 ![snake](https://github.com/Sidney010/Sidney010/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🎯 Objetivo
