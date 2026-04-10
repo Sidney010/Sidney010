@@ -83,9 +83,7 @@
 
 ## 🐍 Contributions Snake
 
-<p align="center">
-  <img src="https://github.com/Sidney010/seu-repo/blob/output/snake.svg" />
-</p>
+![snake](https://github.com/Sidney010/Sidney010/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
