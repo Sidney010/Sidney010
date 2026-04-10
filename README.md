@@ -1,1 +1,91 @@
-# 👨‍💻 Sidney Aragão 🚀 Full Stack Developer Jr. | Backend Focus 🎓 Estudante de **Sistemas de Informação (IFSP)** 🎓 Finalizando o curso técnico em **Desenvolvimento de Sistemas (SENAI)** Tenho experiência prática no desenvolvimento de: - APIs REST - Aplicações Web - Integração entre sistemas - Modelagem e manipulação de banco de dados --- ## 🚀 Tech Stack ### 💻 Backend ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ### 📱 Mobile ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white) ### 🌐 Frontend ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ### 🔌 IoT / Sistemas ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ### 🗄️ Banco de Dados ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ### ☁️ DevOps & Tools ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) --- ## 📌 Projetos em Destaque 🔹 **API REST com Node.js + Prisma** - Autenticação - CRUD completo - Banco relacional (MySQL) 🔹 **Sistema Web Full Stack** - Backend em Node.js - Frontend responsivo - Integração completa 🔹 **App Mobile (Kotlin)** - Consumo de API - Navegação estruturada - Interface moderna --- ## 📊 GitHub Stats ![](https://github-readme-stats.vercel.app/api?username=Sidney010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400) ![](https://streak-stats.demolab.com?user=Sidney010&theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney010&theme=tokyonight&hide_border=true&layout=compact) --- ## 🎯 Objetivo Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e gerar impacto com tecnologia. --- ## 📫 Contato 📧 Email: sidneyc.aragao@email.com 💼 LinkedIn: linkedin.com/in/sidney-campos-aragão --- ✨ *Construindo consistência hoje para ser referência amanhã.* 
+# 👨‍💻 Sidney Aragão
+
+🚀 Full Stack Developer Jr. | Backend Focus 
+
+🎓 Estudante de **Sistemas de Informação (IFSP)**  
+🎓 Finalizando o curso técnico em **Desenvolvimento de Sistemas (SENAI)**  
+
+Tenho experiência prática no desenvolvimento de:
+- APIs REST
+- Aplicações Web
+- Integração entre sistemas
+- Modelagem e manipulação de banco de dados
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 📱 Mobile
+![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🔌 IoT / Sistemas
+![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### ☁️ DevOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **API REST com Node.js + Prisma**
+- Autenticação
+- CRUD completo
+- Banco relacional (MySQL)
+
+🔹 **Sistema Web Full Stack**
+- Backend em Node.js
+- Frontend responsivo
+- Integração completa
+
+🔹 **App Mobile (Kotlin)**
+- Consumo de API
+- Navegação estruturada
+- Interface moderna
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Sidney010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+![](https://streak-stats.demolab.com?user=Sidney010&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney010&theme=tokyonight&hide_border=true&layout=compact)
+
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e gerar impacto com tecnologia.
+
+---
+
+## 📫 Contato
+
+📧 Email: sidneyc.aragao@email.com  
+💼 LinkedIn: linkedin.com/in/sidney-campos-aragão
+
+---
+
+✨ *Construindo consistência hoje para ser referência amanhã.*
