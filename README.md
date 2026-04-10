@@ -48,13 +48,13 @@
 
 ## 📌 Projetos em Destaque
 
-### 🔹 API REST com Node.js + Prisma
+### 🔹 API REST com Node.js + Prisma 
 ✔ Autenticação  
 ✔ CRUD completo  
 ✔ Banco relacional (MySQL)  
 
 ### 🔹 Sistema Web Full Stack
-✔ Backend em Java / Node  
+✔ Backend em Node.js  
 ✔ Frontend responsivo  
 ✔ Integração completa  
 
