@@ -66,6 +66,13 @@ Tenho experiência prática no desenvolvimento de:
 
 ## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=Sidney010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
+
+![](https://streak-stats.demolab.com?user=Sidney010&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney010&theme=tokyonight&hide_border=true&layout=compact)
+
+
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sidney010/Sidney010/output/github-contribution-grid-snake-dark.svg">
@@ -73,13 +80,6 @@ Tenho experiência prática no desenvolvimento de:
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sidney010/Sidney010/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-![](https://github-readme-stats.vercel.app/api?username=Sidney010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400)
-
-![](https://streak-stats.demolab.com?user=Sidney010&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidney010&theme=tokyonight&hide_border=true&layout=compact)
-
 
 ---
 
