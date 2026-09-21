@@ -3,7 +3,7 @@
 🚀 Full Stack Developer Jr. | Backend Focus 
 
 🎓 Estudante de **Sistemas de Informação (IFSP)**  
-🎓 Finalizando o curso técnico em **Desenvolvimento de Sistemas (SENAI)**  
+🎓 Curso técnico em **Desenvolvimento de Sistemas (SENAI)**  
 
 Tenho experiência prática no desenvolvimento de:
 - APIs REST
